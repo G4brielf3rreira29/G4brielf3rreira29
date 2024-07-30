@@ -1,6 +1,8 @@
+
+
 ## olá, bem vindo ao meu perfil 👋
 
-Meu nome é Gabriel Ferreira 
+Meu nome é Gabriel Ferreira dos Santos
 
 -Eu estou estudando na Alura
 
